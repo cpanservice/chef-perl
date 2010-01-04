@@ -11,5 +11,6 @@ requires 'JSON::Any';
 
 auto_install;
 
+repository 'http://github.com/adamhjk/chef-perl';
 WriteAll;
 
